@@ -1,6 +1,6 @@
 wlslb:
   ports:
-  - :7001
+  - 17001:7001
   tty: true
   image: rancher/load-balancer-service
   links:
