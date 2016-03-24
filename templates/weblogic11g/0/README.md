@@ -7,5 +7,5 @@
   Select 'WebLogic11g' from catalog.
   Enter the required values in the configuration set. 
   Click Launch.
-  Your application will be ready for access soon from http://<loadbalance>:17001/<app>.
+  Your application will be ready for access soon from http://your-loadbalance-address:17001/your-app-context.
 
